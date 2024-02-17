@@ -1,0 +1,18 @@
+.picture{
+    min-height: 85vh;
+    margin-top: 150px;
+    
+}
+.platform{
+   max-width: 500px;
+   background-color: var(--navbar-footer-color);
+   
+}
+
+.Featured{
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-bottom: 130px;
+
+    background-color: var(--primary-color);
+}
